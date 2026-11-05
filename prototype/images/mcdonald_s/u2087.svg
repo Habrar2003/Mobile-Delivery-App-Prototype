@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="60px" height="60px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="30" y1="0" x2="30" y2="60" id="LinearGradient346">
+      <stop id="Stop347" stop-color="#ffffff" offset="0" />
+      <stop id="Stop348" stop-color="#f2f2f2" offset="0" />
+      <stop id="Stop349" stop-color="#e4e4e4" offset="1" />
+      <stop id="Stop350" stop-color="#ffffff" offset="1" />
+    </linearGradient>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" width="60" height="60" patternTransform="translate(0 0)">
+      <image preserveAspectRatio="none" style="overflow:visible" width="60" height="60" xlink:href="data:image/png;base64,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" x="0px" y="0px" />
+    </pattern>
+    <mask fill="white" id="Clip351">
+      <path d="M 0 50  L 0 10  C 0 4.3999999999999995  4.3999999999999995 0  10 0  L 50 0  C 55.6 0  60 4.3999999999999995  60 10  L 60 50  C 60 55.6  55.6 60  50 60  L 10 60  C 4.3999999999999995 60  0 55.6  0 50  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -72 -8 )">
+    <path d="M 0 50  L 0 10  C 0 4.3999999999999995  4.3999999999999995 0  10 0  L 50 0  C 55.6 0  60 4.3999999999999995  60 10  L 60 50  C 60 55.6  55.6 60  50 60  L 10 60  C 4.3999999999999995 60  0 55.6  0 50  Z " fill-rule="nonzero" fill="url(#LinearGradient346)" stroke="none" transform="matrix(1 0 0 1 72 8 )" class="fill" />
+    <path d="M 0 50  L 0 10  C 0 4.3999999999999995  4.3999999999999995 0  10 0  L 50 0  C 55.6 0  60 4.3999999999999995  60 10  L 60 50  C 60 55.6  55.6 60  50 60  L 10 60  C 4.3999999999999995 60  0 55.6  0 50  Z " fill-rule="nonzero" fill="url(#BGPattern)" stroke="none" transform="matrix(1 0 0 1 72 8 )" class="background-image" />
+    <path d="M 0 50  L 0 10  C 0 4.3999999999999995  4.3999999999999995 0  10 0  L 50 0  C 55.6 0  60 4.3999999999999995  60 10  L 60 50  C 60 55.6  55.6 60  50 60  L 10 60  C 4.3999999999999995 60  0 55.6  0 50  Z " stroke-width="2" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 72 8 )" class="stroke" mask="url(#Clip351)" />
+  </g>
+</svg>

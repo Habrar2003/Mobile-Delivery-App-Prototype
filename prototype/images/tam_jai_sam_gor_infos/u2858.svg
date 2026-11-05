@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="50px" height="50px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" width="50" height="50" patternTransform="translate(0 0)">
+      <image preserveAspectRatio="none" style="overflow:visible" width="45" height="45" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAtCAYAAAA6GuKaAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAO5SURBVGhD7ZhJSytBEMffF3I3alwjioJI0JMfQT0G9JyIIHgRFY8qgh7Fo2h8GsWFIHoRQyAnBRURXHHf6vEvu+NkNieTTJwH+UMxW0/3r2uqqjv5Q/+h8tC5Uh46V8pD50p56Pv7exoeHhZXzilr0PF4nAYHB8nr9Yo7zikr0AsLC9TX10cVFRVUXV0t7jqnjKCfnp5odnaW/H4/A1dWVpLP5xNPnZNt6JOTE5qcnKS6ujoqLS1NQjc2NooWzskW9Pr6Oiecx+Nh2PLy8uS56zz98PBA4XCYOjo6qKSkhCGllZWVMTw877QsQx8dHdH8/HwyHAoKClKgAYxjbW0tvb+/0+fnZ4p9fHwYGp6nI0vQBwcHFAqF2JuI26KiIg00wgPPUPI2Nzdpe3vb1La2tpLnOzs7FI1GKRaL0evrqxjVWKbQqA4AltXBKcOE8aW6urp4wviqZjKEPj8/p9XVVf7cegM5YTLEent76fj4WJBopYFGfJ2dnfFiUVVVRYWFhZrOnTJAY0x4vrOzk66vrwVVqjTQ8HBzc7Nup06bLJvyfGBgQDdJU6DRoL29nZNJ2cFvGTx/dXUl6L6l8TRKUFtb269DY3xA9/f3C7Jv6SYiqsbU1FRywZATsDoRtLNiaIsyqX5fGuIbz9XShYYeHx8pkUhQTU0Nvwh4swGUpgeoNrRDfwBTvw9Ttn1+fhZUXzKEhrCynZ6ecv3EAPC83gBqQ9ufTIIbmQTGmOq6bQothZqJLSgSVIaL0QTgubW1NVpaWqLl5WVaWVnheo9NViQS4SNsY2ODRkZGqKWlhfuUO0VpEhqGVVMpS9DQzc0N7e3tUUNDA3sKAykHgeE+fgQgJ7C5QojBcA3DZ1baxcUF/+LBZOAQdX/SMbu7u4LiS5ahIYTL/v4+dXd363oa0MiBdPXy8sJ7D7yr7A9jwNNYO5RKC1oKG5u5uTn2joxP6XncsyOU2sXFRe5P2SeOaSWimW5vbzlusdwWFxcnl1+A2xU83trayv3IvrD3wYSUsg0NYQVFPAYCAYaW3s5E4+Pj3Ae8jWMwGBRPvpURtNTh4SGNjY3xQIDPREhM6Wk4AVtjtbICDV1eXtL09DQ1NTWJO/Z0d3fHsEhC/EpCyKiVNWgI4TIzMyOu7AlJJxNwYmJC3E1VVqGzIdR1QNfX1/PfbHpyHTQWHEAPDQ2JO1q5DhqrH/ICsW0k10GPjo7ynsRMroPu6en58W8EV0Gj+oTDf8WVsVwF/fb2Js7M5brwsKI8dG5E9A8+AUtj1w0qgQAAAABJRU5ErkJggg==" x="0px" y="0px" />
+    </pattern>
+    <mask fill="white" id="Clip465">
+      <path d="M 0 25  C 0 10.999999999999998  10.999999999999998 0  25 0  C 39 0  50 10.999999999999998  50 25  C 50 39  39 50  25 50  C 10.999999999999998 50  0 39  0 25  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -9 -13 )">
+    <path d="M 0 25  C 0 10.999999999999998  10.999999999999998 0  25 0  C 39 0  50 10.999999999999998  50 25  C 50 39  39 50  25 50  C 10.999999999999998 50  0 39  0 25  Z " fill-rule="nonzero" fill="rgba(255, 255, 255, 1)" stroke="none" transform="matrix(1 0 0 1 9 13 )" class="fill" />
+    <path d="M 0 25  C 0 10.999999999999998  10.999999999999998 0  25 0  C 39 0  50 10.999999999999998  50 25  C 50 39  39 50  25 50  C 10.999999999999998 50  0 39  0 25  Z " fill-rule="nonzero" fill="url(#BGPattern)" stroke="none" transform="matrix(1 0 0 1 9 13 )" class="background-image" />
+    <path d="M 0 25  C 0 10.999999999999998  10.999999999999998 0  25 0  C 39 0  50 10.999999999999998  50 25  C 50 39  39 50  25 50  C 10.999999999999998 50  0 39  0 25  Z " stroke-width="6" stroke-dasharray="0" stroke="rgba(95, 95, 95, 1)" fill="none" transform="matrix(1 0 0 1 9 13 )" class="stroke" mask="url(#Clip465)" />
+  </g>
+</svg>
